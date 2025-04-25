@@ -95,7 +95,7 @@
 <p align="center">
 	Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.
 </p>
-<br>
+<br><little
 <br>
 <br>
 
